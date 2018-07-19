@@ -10,7 +10,7 @@ Analytic scripts for Doan et al. (2018), "Label-free tracking of acute lymphobla
 - Step 3b: Python 3.6 - Data-driven visualization of deep learning feature space
 - Step 3c: Python 3.6 - Identify leukemic blast in a mixture of White blood cells
 
-iPython notebooks for steps 1-4 are provided in this repository
+iPython notebooks for steps 1-3 are provided in this repository
 
 # Dependencies:
 Prior to installation of deepometry itself, user needs the following packages pre-installed:
